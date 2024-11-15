@@ -1,0 +1,78 @@
+DEVOPS ROADMAP 2025
+6 Faz Olarak Düşünebilirsiniz.
+-----------------------------------------------------------------------
+1 - Giriş
+Linux
+Shell Scripting
+Golang or Python
+Git ve GitHub
+
+#Burası çok önemli.
+-----------------------------------------------------------------------
+2 - IT Becerileriniz
+OSI Modeli
+Internet Protokolleri
+DNS ve DHCP
+Genişleme (Scaling)
+SSL/TLS
+Load Balancer
+Reverse Proxy
+Forward Proxy
+Uyulama yavaşlıkları 
+Uygulama gecikmeleri
+Erişilemez durumları vb.
+RAID
+NAS / SANS
+SQL / NoSQL
+DB Sharding
+Caching
+
+#Mantığını Öğrenmelisiniz
+-----------------------------------------------------------------------
+3 - Cloud
+AWS
+GCP
+AZURE
+HUAWEI CLOUD
+IBM CLOUD
+ORACLE CLOUD
+VULTR
+DIGITAL OCEAN
+
+#Cloud her zaman gelişiyor her zaman öğrenime devam etmelisiniz.
+-----------------------------------------------------------------------
+4 - DevOps Araçları
+Jenkins
+Gitlab
+Modern ve güncel CI/CD
+Azure DevOps
+Github Actions
+Docker  & Kubernetes
+Terraform - Palumi
+ELK Stack
+Grafana
+Prometheus
+Ansible
+
+#Aslında DevOps bu alanda başlıyor.
+-----------------------------------------------------------------------
+5 - Proje
+Tier 3 Mimarisi
+Kubernetes İleri Seviye Yömetimi
+Open Shift - Rancher
+GitOps Tools 
+ArgoCD
+Serverless
+Monitoring - Alerting
+
+#Pastanın üstündeki çilek gibi olsada gelişim her zaman sizi öne taşır.
+-----------------------------------------------------------------------
+5 - Planlama
+Jira
+Redmine
+OpenProject
+Gitlab
+Taiga
+
+#Kayıt etmek, planlı çalışmalasınız ve bunu her zaman yapmalısınız.
+-----------------------------------------------------------------------
