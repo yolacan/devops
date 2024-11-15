@@ -1,1 +1,1 @@
-# devops
+# devops notlarım diye başadım bakalım
